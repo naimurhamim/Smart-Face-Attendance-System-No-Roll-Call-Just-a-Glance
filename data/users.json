@@ -1,0 +1,19 @@
+{
+    "users": {
+        "IRE2101042": {
+            "name": "MD Naimur Rashid",
+            "dept": "IRE",
+            "status": "enrolled"
+        },
+        "CSE0001": {
+            "name": "Shah Rukh Khan",
+            "dept": "CSE",
+            "status": "enrolled"
+        },
+        "DCE0001": {
+            "name": "Aamir Khan",
+            "dept": "DSE",
+            "status": "enrolled"
+        }
+    }
+}

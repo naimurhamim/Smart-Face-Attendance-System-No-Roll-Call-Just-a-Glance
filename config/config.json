@@ -1,0 +1,12 @@
+{
+  "dataset_path": "dataset/faces",
+  "encodings_path": "output/encodings.pkl",
+  "recognizer_path": "output/recognizer.pkl",
+  "le_path": "output/labels.pkl",
+  "users_db": "data/users.json",
+  "attendance_db": "data/attendance.json",
+  "yolo_model": "yolo26n.pt",
+  "face_count": 30,
+  "confidence": 0.4,
+  "consecutive_count": 5
+}

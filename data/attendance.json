@@ -1,0 +1,25 @@
+{
+    "attendance": {
+        "1165654": [
+            {
+                "name": "Hamim",
+                "dept": "IRE",
+                "date_time": "2026-05-22 20:48:56"
+            }
+        ],
+        "IRE2101042": [
+            {
+                "name": "MD Naimur Rashid",
+                "dept": "IRE",
+                "date_time": "2026-05-22 21:00:22"
+            }
+        ],
+        "DCE0001": [
+            {
+                "name": "Aamir Khan",
+                "dept": "DSE",
+                "date_time": "2026-05-22 21:00:45"
+            }
+        ]
+    }
+}
