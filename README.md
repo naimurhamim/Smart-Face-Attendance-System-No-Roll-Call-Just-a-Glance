@@ -35,6 +35,16 @@
 
 </div>
 
+## 🎬 Demo Video
+
+<div align="center">
+
+[![Smart Face Attendance System Demo](https://img.youtube.com/vi/f6lqk6oJi48/maxresdefault.jpg)](https://youtu.be/f6lqk6oJi48)
+
+**▶ [Watch Full Demo on YouTube](https://youtu.be/f6lqk6oJi48)**
+
+</div>
+
 ---
 
 ## 📸 Screenshots
